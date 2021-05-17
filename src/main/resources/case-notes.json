@@ -1,0 +1,47 @@
+{
+    "documentId": "icw5-stephenson-valcourt.pdf",
+    "title": "Case notes",
+    "metadataJson": "{\"VisitDate\": \"2021-05-03\", \"CaseWorker\": \"John Smith\", \"Location\": \"3438 W Walnut St, Chicago, IL 60624, USA\", \"url\": \"http://www.illinoischildwelfare.org/archives/volume5/icw5-stephenson-valcourt.pdf\"}",
+    "section": [
+      {
+        "id": 1,
+        "text": "Sandy was removed from her home by CPS and placed in foster care after her class teacher observed multiple bruises on Sandy’s body. It is alleged that mother’s boyfriend inflicted the injuries. Mother claims she was unaware of the injuries. Mother has a history of reported drug and alcohol use and was intoxicated at the time of CPS investigation. Sandy is currently placed in the agency-operated foster boarding home of Ms. Jones. Child’s mother is allowed to have supervised visits at the foster care agency until the next planning conference.",
+        "metadataJson": "{\"name\": \"Reason for involvement\"}"
+      },
+      {
+        "id": 2,
+        "text": "Caseworker visited the foster boarding home of Ms. Jones today to assess Sandy’s adjustment to placement with the Jones’ family",
+        "metadataJson": "{\"name\": \"Reason for contact\"}"
+      },
+      {
+        "id": 3,
+        "text": "Caseworker visited Sandy’s school today and met with her class teacher. According to the class teacher, Sandy seems less withdrawn since placement but she is not reading at grade level and has difficulty comprehending simple instructions.",
+        "metadataJson": "{\"name\": \"Gathering of information\"}"
+      },
+      {
+        "id": 4,
+        "text": "Present in Ms. Jones’s home were Ms. Jones, her two daughters (Erika and Mona),, and her foster child, Sandy. Ms. Jones said her husband was away on business as an insurance evaluator.",
+        "metadataJson": "{\"name\": \"Who was seen?\"}"
+      },
+      {
+        "id": 5,
+        "text": "A home visit was made to the foster home of Ms. Jones today to assess Sandy’s adjustment to her new foster family. The home was clean and comfortably furnished with no safety concerns. There was ample food in the refrigerator and cupboard and there were fruits on the table. The meeting was conducted in the dining room, where the children were observed doing their homework. Ms. Jones showed caseworker Sandy’s room, which had pretty frilly curtains, a single bed, and child-appropriate furniture and decorations. The room was clean and neat.",
+        "metadataJson": "{\"name\": \"Observation\"}"
+      },
+      {
+        "id": 6,
+        "text": "Mona, Ms. Jones’s older daughter was observed showing Sandy how to do her homework. Mona was very patient with Sandy; she took her time explaining how to do simple addition.\n\nMs. White, Sandy’s mother came to the office today for a supervised visit. Mother looked somewhat disheveled; her hair was uncombed, her clothes were heavily soiled and she smelled of alcohol. Caseworker asked mother if she had been drinking. Mother said she had just had a beer. Sandy took a while to warm up to her mother. Mother brought a packet of potato chips for Sandy. Sandy took the chips after much prodding from Ms. Jones but returned to snuggle up to Ms. Jones.",
+        "metadataJson": "{\"name\": \"Interactions\"}"
+      },
+      {
+        "id": 7,
+        "text": "Ms. White reacted angrily and questioned the reason that her child did not want to be with her. Caseworker acknowledged mother’s feelings of rejection by Sandy.\n\nSandy disclosed to caseworker that she was fearful of returning home in case mother’s boyfriend hurt her again. Sandy said mother’s boyfriend often hit her for no reason.",
+        "metadataJson": "{\"name\": \"Underlying factors\"}"
+      },
+      {
+        "id": 8,
+        "text": "Caseworker discussed Sandy’s inability to read and comprehend at grade level with the guidance counselor; caseworker requested  that Sandy be given an educational evaluation to further determine her educational needs and level of functioning.\n\nCaseworker explored with Ms. White the frequency and quantity of her alcohol consumption. Ms. White stated that she has been drinking two or three cans of beer a day with friends, sometimes more, since her child was removed from her care. Caseworker explored Ms. White’s feelings of loss with her and suggested a follow-up meeting with her counselor. Ms. White agreed to a meeting with her MICA counselor to address her mental health needs.",
+        "metadataJson": "{\"name\": \"Services/Intervention/Safety plan\"}"
+      }
+    ]
+  }
